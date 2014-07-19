@@ -2,7 +2,7 @@
 
 ## NSPredicate does not support UTF8 keypaths
 
-[rdar://???](http://openradar.appspot.com/radar?id=???)
+[rdar://17735684](http://openradar.appspot.com/radar?id=5222810825785344)
 
 Please see `main.m` to see that an NSPredicate cannot reference UTF8 keypaths.
 
